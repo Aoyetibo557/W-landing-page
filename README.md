@@ -8,5 +8,7 @@
 
 ## Welcome! 👋
 
+This is a simple responsive landing page. Hosted on Vercel. If you have any input on updating it ordesign comments, please feel free to reach out!
+
 
 **Have fun building!** 🚀
